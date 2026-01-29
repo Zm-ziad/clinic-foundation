@@ -1,2 +1,1 @@
-This Repo contains my professional Git & Linux configurations for my project
-Done with basic setup and SSH linking.
+Clinic status: Under Constraction
